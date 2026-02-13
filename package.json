@@ -56,7 +56,7 @@
 		"axios": "1.6.1",
 		"classnames": "^2.3.2",
 		"comlink": "^4.4.1",
-		"express": "4.18.2",
+		"express": "4.22.0",
 		"express-fileupload": "1.4.0",
 		"file-saver": "^2.0.5",
 		"follow-redirects": "1.15.2",
